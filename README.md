@@ -29,7 +29,7 @@ SaraAI/
 ⚙️ Installation
 Clone this repository
 .
-git clone https://github.com/SparshRuhela/SarahAI.git
+git clone (https://github.com/SparshRuhela/SARA-AI-your-ai-assistant.git)
 cd SarahAI
 .
 Create virtual environment (recommended)
