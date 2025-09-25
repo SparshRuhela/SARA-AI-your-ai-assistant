@@ -1,0 +1,4 @@
+google-generativeai
+gTTS
+SpeechRecognition
+pyaudio
